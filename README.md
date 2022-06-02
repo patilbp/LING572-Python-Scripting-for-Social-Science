@@ -1,6 +1,6 @@
 # LING572-Python-Scripting-for-Social-Science
 
-This course gives learnings on - Computational view of data collection and data analyis, data cleanup and data sorting tasks, computer visualizations, machine learning for statistical and structural concepts in data analysis.
+This course gives learnings on - Computational view of data collection and data analysis, data cleanup and data sorting tasks, computer visualizations, machine learning for statistical and structural concepts in data analysis.
 
 Course Syllabus Contents:
 1. Introduction
